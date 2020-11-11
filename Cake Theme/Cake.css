@@ -105,10 +105,6 @@
     background-color: rgba(244, 172, 197, 0.437);
 }
 
-.theme-dark .avatarUploader-3XDtmn .removeButton-1hcZyG {
-    color: white !important;
-}
-
 
 .input-cIJ7To:focus {
     border-color: #f4acc5 !important;
@@ -202,7 +198,6 @@
 .theme-dark .gameName-1RiWHm,
 .theme-dark .nowPlaying-284llR .gameName-1RiWHm,
 .theme-dark .clearIcon-2N9YIn, 
-.theme-dark .searchIcon-1a1-yA,
 .theme-dark .fontScaleLarge-3xtq7i, 
 .theme-dark .fontScaleSmall-368quy,
 .theme-dark .markValue-2DwdXI {
@@ -232,11 +227,6 @@
 .theme-dark .inset-3sAvek {
     background-color: rgba(0, 0, 0, .36);
 }
-.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
-    border-radius: 0;
-    background-color: rgba(0, 0, 0, .24);
-    color: white;
-}
 
 .defaultValue-3gC7yw .markValue-2DwdXI {
     color: #43b581 !important;
@@ -246,19 +236,6 @@
 .theme-dark .gameNameInput-385LoS:hover {
     border-color: transparent;
     background-color: rgba(31, 31, 31, 0.57);
-}
-
-.theme-dark .searchBox-3Y2Vi7 {
-    background-color: rgba(0, 0, 0, 0.2);
-}
-
-.theme-dark .searchResultsContainer-1ma_dc {
-    background-color: black;
-    box-shadow: none;
-}
-  
-.theme-dark .searchOption-8nCYo-.selected-1r_nkg {
-    background-color: rgba(255,255,255,.089);
 }
   
 .theme-dark .emptyUsers--hiToV {
@@ -358,15 +335,6 @@
 }
 .theme-dark .checked-3_4uQ9[style*="background-color: rgb(114, 137, 218);"] {
     background-color: rgba(0,0,0,.4) !important;
-}
-  
-.theme-dark .checkbox-1ix_J3 {
-    border-color: rgba(255,255,255,.3) !important;
-}
-
-.theme-dark .checkbox-1ix_J3[style*="border-color: rgb(114, 137, 218);"] path[fill],
-.theme-dark .checkbox-1ix_J3[style*="border-color: rgb(79, 84, 92);"] path[fill] {
-    fill: white;
 }
 
 .inner-2Y6JuD {
@@ -576,34 +544,6 @@
     color: white;
 }
 
-.uploadArea-3QgLtW {
-    background: rgba(0,0,0,.8);
-}
-
-.uploadArea-3QgLtW .uploadDropModal-2kTwbc .bgScale-1otPtc {
-    background: radial-gradient(ellipse at center, #f4acc5 0%, #5d98e6 100%);
-    border: none;
-}
-
-.uploadArea-3QgLtW .uploadDropModal-2kTwbc .inner-3nWsbo {
-    border: none;
-}
-
-.theme-dark .uploadModal-2ifh8j .footer-3mqk7D {
-    background-color: transparent;
-    padding: 13px;
-}
-
-.theme-dark .uploadModal-2ifh8j .inner-3nWsbo {
-    border: none;
-}
-  
-.theme-dark .uploadModal-2ifh8j {
-    background: linear-gradient(45deg, #f4acc5 0%, black 40%);
-    background-size: cover;
-    border-radius: 5px;
-}
-
 .input--jS-j2 {
     background-color: transparent;
 }
@@ -614,22 +554,11 @@
     background-color: rgba(0, 0, 0, .4);
 }
 
-.theme-dark .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
-    background-color: #f4acc5;
-    border: 3px solid black;
-    border-radius: 10%;
-    box-shadow: 5px 9px 8px rgba(0, 0, 0, 0.42),5px 4px 8px rgba(0, 0, 0, 0.42),0 0 18px rgba(0, 0, 0, 0.7);
-}
-
 
 .theme-dark .contentTitle-2tG_sM,
 .theme-dark .description-11DmNu, 
 .theme-brand .content-Qb0rXO {
     color: white;
-}
-
-.theme-dark .uploadModal-2ifh8j .footer-3mqk7D .lookLink-9FtZy-.colorWhite-rEQuAQ:hover {
-    background-color: rgba(255,0,0,0.6);
 }
 
 .theme-dark .iconForeground-1w5n7R {
@@ -722,11 +651,6 @@
     background: rgba(244, 172, 197, 0.3);
 }
 
-.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {
-    background-color: #f4acc5;
-    border-color: #f4acc5;
-}
-
 .contentRegion-3nDuYy #bd-customcss-attach-controls, 
 #bd-customcss-detach-container #bd-customcss-attach-controls {
     background: black;
@@ -817,10 +741,6 @@
 
 .auto-Ge5KZx::-webkit-scrollbar-track  {
     background-color: transparent;
-}
-
-.searchBar-6Kv8R2 {
-    box-shadow: none;
 }
 
 .privateChannels-1nO12o,
@@ -1475,19 +1395,6 @@
     background-color: transparent;
 }
 
-.searchBar-3dMhjb {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.30);
-}
-
-.search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root,
-.theme-dark .resultsGroup-r_nuzN .header-2N-gMV, 
-.theme-dark .resultsGroup-r_nuzN .plusIcon-v0BTrL, 
-.theme-dark .resultsGroup-r_nuzN .searchClearHistory-2cSSMO, 
-.theme-dark .resultsGroup-r_nuzN .searchLearnMore-3SQUAj a {
-    color: white;
-}
-
 .theme-dark .container-3ayLPN {
     background: linear-gradient(135deg, #f4acc5 0%, #000000 100%);
     border-radius: 10px;
@@ -1512,12 +1419,6 @@
     border-radius: 10px;
 }
 
-.theme-dark .searchOption-zQ-1l6 .answer-1n6g43,
-.theme-dark .searchResultChannelCategory-1l0lSn, 
-.theme-dark .searchResultChannelIcon-1DnTme {
-    color: #939393;
-}
-
 .theme-dark .option-96V44q .filter-3Y_im- {
     color: #c7c7c7;
 }
@@ -1535,11 +1436,6 @@
     border-top: none;
 }
 
-.theme-dark .searchResult-9tQ1uo.expanded-w_LCGl {
-    border: none;
-    background-color: rgba(0, 0, 0, .3);
-}
-
 .tab-EiCZG6, .totalResults-1yK_Ym {
     opacity: 0.6;
 }
@@ -1548,23 +1444,10 @@
     color: white;
 }
 
-.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
-    background-color: #f4acc5;
-}
-
 .theme-dark .edited-3sfAzf,
 .theme-dark .operations-36ENbA,
 .cozy-3raOZG .timestamp-3ZCmNB {
     color: white;
-} 
-
-.theme-dark .searchHeader-2XoQg7 {
-    box-shadow: none;
-    color: white;
-}
-
-.theme-dark .searchResultsWrap-3-pOjs {
-    background: linear-gradient(135deg, #f4acc5 0%, #000000 100%);
 } 
 
 .theme-dark .channelSeparator-1DOiGt:before {
@@ -1576,28 +1459,6 @@
     border: 2px solid black;
     padding: 12px;
     border-bottom: none;
-}
-
-.theme-dark .searchResult-9tQ1uo:before,
-.theme-dark .searchResult-9tQ1uo:after {
-    background-image: none;
-}
-
-.theme-dark .searchResult-9tQ1uo .searchResultMessage-1fxgXh.hit-1fVM9e {
-    border: none;
-}
-
-.theme-dark .searchResult-9tQ1uo .hit-NLlWXA {
-    background-color: rgba(0, 0, 0, 0.39);
-    box-shadow: none;
-    opacity: 0.7;
-}
-
-.theme-dark .searchResult-9tQ1uo.expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e {
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
-    background-color: black;
-    opacity: 1;
 }
 
 .divider-JfaTT5 {
@@ -1658,18 +1519,6 @@
     height: 14px;
 }
 
-.mediaBarGrabber-1FqnbN, 
-.mediaBarProgress-1xaPtl, 
-.mediaBarProgress-1xaPtl:after, 
-.mediaBarProgress-1xaPtl:before,
-.mediaBarInteraction-37i2O4:hover .mediaBarGrabber-1FqnbN {
-    background-color: #5eadea;
-}
-
-.progress-3Rbvu0[style*="background-color: rgb(233, 231, 231);"] {
-    background-color: transparent !important;
-}
-
 .small-1CUeBa[style*="background-color: rgb(114, 137, 218);"] {
     background-color:  #5eadea !important; 
 }
@@ -1714,33 +1563,6 @@
 .channelTextArea-rNsIhG {
     background: none;
 }
-
-.uploadArea-3QgLtW {
-    background: rgba(0,0,0,.8);
-}
-
-.uploadArea-3QgLtW .uploadDropModal-2kTwbc .bgScale-1otPtc {
-    background: radial-gradient(ellipse at center, #f4acc5 0%, #000000 100%);
-    border: none;
-}
-
-.uploadArea-3QgLtW .uploadDropModal-2kTwbc .inner-3nWsbo {
-    border: none;
-}
-
-.theme-dark .uploadModal-2ifh8j .footer-3mqk7D {
-    background-color: transparent;
-    padding: 13px;
-}
-
-.theme-dark .uploadModal-2ifh8j .inner-3nWsbo {
-    border: none;
-}
-
-.theme-dark .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
-    border: none;
-    border-radius: 30px;
-}
   
 .lookInverted-2D7oAl.colorBrand-3pXr91 {
     color: white;
@@ -1772,7 +1594,7 @@
     box-shadow: none;
     border-radius: 25px;
     background-size: cover;
-    background: url(https://mfiles.alphacoders.com/785/785716.jpg) 10%/cover;;
+    background: url(https://i.redd.it/hzhy7jzwthb51.png) 10%/cover;;
 }
 
 .popout-2iWAc- {
@@ -1814,7 +1636,7 @@
 
 .root-SR8cQa {
     border-radius: 12px;
-    background: url(https://images7.alphacoders.com/739/739983.jpg) 10%/cover;
+    background: url(https://i.imgur.com/0N6Ezdg.jpg) 50%/cover;
 }
 
 .theme-dark .body-3iLsc4,
@@ -2076,10 +1898,6 @@
     box-shadow: none;
 }
 
-.emojiPicker-3PwZFl .header-8ilj5e .searchBar-2pWH0_ {
-    background-color: transparent;
-}
-
 .contentWrapper-SvZHNd .diversitySelectorPopout-3FiGaM {
     background: transparent;
     border-color: transparent;
@@ -2089,16 +1907,9 @@
     background-color: transparent;
 }
 
-.colorDefault-2K3EoJ .checkbox-3s5GYZ, 
-.colorDefault-2K3EoJ .radioSelection-1HmrQS {
-  color: rgba(0, 0, 0, .26) !important;
-}
-
 .colorDefault-2K3EoJ.focused-3afm-j .check-1JyqgN {
   color: white;
 }
-
-
 
 .categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {
     border-bottom-color: white;
