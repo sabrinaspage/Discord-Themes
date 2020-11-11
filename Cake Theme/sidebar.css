@@ -1,0 +1,59 @@
+.standardSidebarView-3F1I7i {
+    background-image: url(https://i.pximg.net/img-original/img/2020/10/01/00/00/23/84717465_p0.jpg);
+    background-size: cover;
+}
+
+.sidebar-2K8pFh {
+    background: transparent;
+}
+
+.theme-dark .sidebarRegion-VFTUkN,
+.sidebarRegionScroller-3MXcoP {
+ background-color: rgba(0, 0, 0, 0.607);
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: white;
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
+    background-color: transparent;
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background-color: rgba(244, 172, 197, 0.273) !important;
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
+    background-color: rgba(244, 172, 197, 0.0997);
+}
+
+#bd-settings-sidebar .ui-tab-bar-item {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 5px;
+}
+
+.standardSidebarView-3F1I7i a {
+    color: #e5c634;
+}
+
+.standardSidebarView-3F1I7i #editor-detached h3 {
+    color: white;
+}
+
+.standardSidebarView-3F1I7i #editor-detached button {
+    background: #f4acc5;
+    text-shadow: 0 0 58px black,0 0 8px black,0 0 8px black;
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: rgba(244, 172, 197, 0.87) !important;
+    border: none !important;
+    margin-right: 2px;
+    border-radius: 10px;
+    text-shadow: 0 3px 5px black;
+}
